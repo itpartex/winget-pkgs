@@ -9,14 +9,14 @@ ProductCode: NeoChat
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15444-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: F3A31059D2D077E294A1108E64074181AA002A95F41C0A5B9BC07871080D5A28
+  InstallerUrl: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15499-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: AFCF35225E6F93571AD2F04ACD7AC79C61344AFBFD8D6E4CA17DAA3EB6D281AF
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15444-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: F3A31059D2D077E294A1108E64074181AA002A95F41C0A5B9BC07871080D5A28
+  InstallerUrl: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15499-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: AFCF35225E6F93571AD2F04ACD7AC79C61344AFBFD8D6E4CA17DAA3EB6D281AF
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
