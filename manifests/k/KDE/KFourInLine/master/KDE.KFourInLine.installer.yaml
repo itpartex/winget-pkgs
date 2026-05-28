@@ -9,14 +9,14 @@ ProductCode: kfourinline
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-902-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 6512466FD928D39F433C7670E3D1CC44F1BB25E069D66537219957E9F4C9BDFC
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-906-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 65B9578F71983C282E56C9B59DA2774FD8CD9CC79A91149C2FD5369C77461EB9
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-902-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 6512466FD928D39F433C7670E3D1CC44F1BB25E069D66537219957E9F4C9BDFC
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-906-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 65B9578F71983C282E56C9B59DA2774FD8CD9CC79A91149C2FD5369C77461EB9
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
