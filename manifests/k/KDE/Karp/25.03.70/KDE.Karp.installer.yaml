@@ -9,14 +9,14 @@ ProductCode: Karp
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-616-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B8DAC1569243E05FAFEF913CB2D1A3EF323FFE5E996C1C6165846B94A5EFBFE1
+  InstallerUrl: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-638-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 9C1DA4616C2826915442FF866178EB336025ADBE136AA54396A44D3074A8485E
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-616-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B8DAC1569243E05FAFEF913CB2D1A3EF323FFE5E996C1C6165846B94A5EFBFE1
+  InstallerUrl: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-638-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 9C1DA4616C2826915442FF866178EB336025ADBE136AA54396A44D3074A8485E
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
