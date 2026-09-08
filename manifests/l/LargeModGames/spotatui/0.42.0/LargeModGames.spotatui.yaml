@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2026/Sep/08
+# Created with spotatui CD workflow using komac v2.15.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.12.0.schema.json
 
-PackageIdentifier: xpf0000.FlyEnv
-PackageVersion: 4.18.2
+PackageIdentifier: LargeModGames.spotatui
+PackageVersion: 0.42.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.12.0
